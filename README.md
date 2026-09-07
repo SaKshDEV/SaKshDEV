@@ -29,59 +29,7 @@
 
 ---
 
-## 🚀 Right Now
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🛡️ AgentProof AI
-
-**AI Agent Evaluation Platform**
-
-Building a platform to evaluate, compare and understand the reliability of AI agents.
-
-`MERN` `AI` `Evaluation` `Analytics`
-
-➡️ **[View Project](https://github.com/SaKshDEV/agentproof-ai)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💳 Payment Recovery System
-
-**Intelligent Payment Workflows**
-
-Building a Razorpay-powered system for transactions, failed-payment recovery and automated recovery cases.
-
-`Node.js` `MongoDB` `Razorpay` `REST APIs`
-
-🚧 **Currently Building**
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### 🧠 NEXT MAJOR BUILD
-
-# 🤖 J A R V I S
-
-**A personal AI assistant that doesn't just chat — it takes action.**
-
-`Voice` • `Agents` • `Memory` • `Automation` • `Tool Calling`
-
-> From answering questions → to actually executing tasks.
-
-</div>
-
----
 
 ## ⚙️ Developer Mode
 
