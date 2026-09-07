@@ -109,16 +109,28 @@ const saksham = {
 
 ## 🧰 Tech Arsenal
 
+<div align="center">
+
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center" valign="top">
 
 ### ⚡ Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python&theme=dark" />
 
-<br/><br/>
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
 
 ### ⚙️ Backend
 
@@ -126,13 +138,11 @@ const saksham = {
 
 </td>
 
-<td width="50%" valign="top" align="center">
+</tr>
 
-### 🎨 Frontend
+<tr>
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
-
-<br/><br/>
+<td width="33%" align="center" valign="top">
 
 ### 🗄️ Database
 
@@ -140,18 +150,34 @@ const saksham = {
 
 </td>
 
-</tr>
-</table>
+<td width="33%" align="center" valign="top">
 
-<div align="center">
-
-### 🛠️ Tools & Workflow
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
 
-<br/><br/>
+</td>
 
-`REST APIs` • `JWT Auth` • `Socket.IO` • `Razorpay` • `AI APIs`
+<td width="33%" align="center" valign="top">
+
+### 🧠 Engineering
+
+<br/>
+
+`REST APIs`
+
+`JWT Auth`
+
+`Socket.IO`
+
+`Razorpay`
+
+`AI APIs`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
