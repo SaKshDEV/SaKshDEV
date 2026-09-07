@@ -28,109 +28,6 @@
 <br/>
 
 ---
-
-
-
-## ⚙️ Developer Mode
-
-```javascript
-const saksham = {
-    role: "Software Engineer",
-
-    building: [
-        "AgentProof AI",
-        "Payment Recovery System"
-    ],
-
-    exploring: [
-        "AI Agents",
-        "LLMs",
-        "Automation",
-        "System Design"
-    ],
-
-    nextMission: "Build my own JARVIS 🤖",
-
-    philosophy: "Build → Break → Learn → Improve → Ship"
-};
-```
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### ⚡ Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python&theme=dark" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🧠 Engineering
-
-<br/>
-
-`REST APIs`
-
-`JWT Auth`
-
-`Socket.IO`
-
-`Razorpay`
-
-`AI APIs`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🚀 Project Journey
 
 <table>
@@ -244,6 +141,109 @@ My next flagship project — a JARVIS-inspired AI system designed to move beyond
 </table>
 
 ---
+
+
+## ⚙️ Developer Mode
+
+```javascript
+const saksham = {
+    role: "Software Engineer",
+
+    building: [
+        "AgentProof AI",
+        "Payment Recovery System"
+    ],
+
+    exploring: [
+        "AI Agents",
+        "LLMs",
+        "Automation",
+        "System Design"
+    ],
+
+    nextMission: "Build my own JARVIS 🤖",
+
+    philosophy: "Build → Break → Learn → Improve → Ship"
+};
+```
+
+## 🧰 Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### ⚡ Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python&theme=dark" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" />
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 Engineering
+
+<br/>
+
+`REST APIs`
+
+`JWT Auth`
+
+`Socket.IO`
+
+`Razorpay`
+
+`AI APIs`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+
 ## 📊 GitHub Activity
 
 <div align="center">
