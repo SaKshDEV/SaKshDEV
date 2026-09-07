@@ -161,23 +161,45 @@ const saksham = {
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=SaKshDEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-  alt="Saksham's GitHub Stats"
-/>
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=SaKshDEV&theme=transparent&hide_border=true"
-  alt="Saksham's GitHub Streak"
+  width="90%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaKshDEV&theme=github_dark"
+  alt="GitHub Profile Summary"
 />
 
 <br/><br/>
 
 <img
-  width="55%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaKshDEV&layout=compact&hide_border=true&theme=transparent&langs_count=8"
-  alt="Most Used Languages"
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaKshDEV&theme=github_dark"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaKshDEV&theme=github_dark&utcOffset=5.5"
+  alt="Productive Time"
+/>
+
+<br/><br/>
+
+<img
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaKshDEV&theme=github_dark"
+  alt="Repositories Per Language"
+/>
+
+<img
+  width="45%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaKshDEV&theme=github_dark"
+  alt="Most Commit Language"
+/>
+
+<br/><br/>
+
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=SaKshDEV&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
