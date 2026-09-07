@@ -301,3 +301,26 @@ My next flagship project — a JARVIS-inspired AI system designed to move beyond
 </div>
 
 ---
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/saksham-gulati-a372952b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Saksham%20Gulati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sakshamgulati333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/SaKshDEV">
+  <img src="https://img.shields.io/badge/GitHub-SaKshDEV-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ⚡ Open to Software Engineering & Full-Stack opportunities
+
+**Building. Learning. Shipping.**
+
+</div>
