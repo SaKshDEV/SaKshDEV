@@ -156,6 +156,33 @@ const saksham = {
 </div>
 
 ---
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=SaKshDEV&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  alt="Saksham's GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=SaKshDEV&theme=transparent&hide_border=true"
+  alt="Saksham's GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+  width="55%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaKshDEV&layout=compact&hide_border=true&theme=transparent&langs_count=8"
+  alt="Most Used Languages"
+/>
+
+</div>
+
+---
 
 <div align="center">
 
