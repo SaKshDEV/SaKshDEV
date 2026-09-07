@@ -169,35 +169,7 @@ const saksham = {
 <br/><br/>
 
 <img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaKshDEV&theme=github_dark"
-  alt="GitHub Stats"
-/>
-
-<img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaKshDEV&theme=github_dark&utcOffset=5.5"
-  alt="Productive Time"
-/>
-
-<br/><br/>
-
-<img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaKshDEV&theme=github_dark"
-  alt="Repositories Per Language"
-/>
-
-<img
-  width="45%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaKshDEV&theme=github_dark"
-  alt="Most Commit Language"
-/>
-
-<br/><br/>
-
-<img
-  width="70%"
+  width="65%"
   src="https://streak-stats.demolab.com?user=SaKshDEV&theme=github-dark-blue&hide_border=true"
   alt="GitHub Streak"
 />
