@@ -105,9 +105,14 @@ const saksham = {
 
     philosophy: "Build → Break → Learn → Improve → Ship"
 };
-<div align="center">
-FULL-STACK × AI × AUTOMATION
+```
 
-Building software today. Intelligent systems tomorrow.
+<div align="center">
+
+### `FULL-STACK` × `AI` × `AUTOMATION`
+
+**Building software today. Intelligent systems tomorrow.**
 
 </div>
+
+---
